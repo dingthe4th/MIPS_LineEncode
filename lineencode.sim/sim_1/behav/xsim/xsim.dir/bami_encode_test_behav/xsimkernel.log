@@ -1,0 +1,7 @@
+Running: xsim.dir/bami_encode_test_behav/xsimk.exe -simmode gui -wdb bami_encode_test_behav.wdb -simrunnum 0 -socket 55350
+Design successfully loaded
+Design Loading Memory Usage: 6268 KB (Peak: 6268 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 6776 KB (Peak: 6776 KB)
+Simulation CPU Usage: 61 ms

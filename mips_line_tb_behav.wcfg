@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="mips_line_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="mips_line_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="190fs"></ZoomEndTime>
+      <Cursor1Time time="1000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="173"></NameColumnWidth>
+      <ValueColumnWidth column_width="71"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/mips_line_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_line_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_line_tb/regout" type="array">
+      <obj_property name="ElementShortName">regout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">regout[31:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_line_tb/uut/serial_in" type="logic">
+      <obj_property name="ElementShortName">serial_in</obj_property>
+      <obj_property name="ObjectShortName">serial_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_line_tb/serial" type="logic">
+      <obj_property name="ElementShortName">serial</obj_property>
+      <obj_property name="ObjectShortName">serial</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_line_tb/aluoutput" type="array">
+      <obj_property name="ElementShortName">aluoutput[31:0]</obj_property>
+      <obj_property name="ObjectShortName">aluoutput[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_line_tb/pcoutput" type="array">
+      <obj_property name="ElementShortName">pcoutput[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcoutput[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_line_tb/uut/encode_sel" type="array">
+      <obj_property name="ElementShortName">encode_sel[5:0]</obj_property>
+      <obj_property name="ObjectShortName">encode_sel[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_line_tb/uut/Eencode" type="logic">
+      <obj_property name="ElementShortName">Eencode</obj_property>
+      <obj_property name="ObjectShortName">Eencode</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_line_tb/uut/encode_sel" type="array">
+      <obj_property name="ElementShortName">encode_sel[5:0]</obj_property>
+      <obj_property name="ObjectShortName">encode_sel[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_line_tb/uut/prev" type="logic">
+      <obj_property name="ElementShortName">prev</obj_property>
+      <obj_property name="ObjectShortName">prev</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Dec 23 09:46:38 2021
+# Process ID: 12912
+# Current directory: H:/000 Term 8 000/lineencode
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25872 H:\000 Term 8 000\lineencode\lineencode.xpr
+# Log file: H:/000 Term 8 000/lineencode/vivado.log
+# Journal file: H:/000 Term 8 000/lineencode\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {H:/000 Term 8 000/lineencode/lineencode.xpr}
+update_compile_order -fileset sources_1

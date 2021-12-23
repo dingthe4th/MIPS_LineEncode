@@ -1,0 +1,26 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/000 Term 8 000/lineencode/lineencode.srcs/sim_1/new/mips_line_sim.vhd,1622431908,vhdl,,,,mips_line_tb,,,,,,,,
+D:/000 Term 8 000/lineencode/lineencode.srcs/sources_1/new/biphasel_encode.vhd,1622353250,vhdl,,,,biphasel_encode,,,,,,,,
+D:/000 Term 8 000/lineencode/lineencode.srcs/sources_1/new/biphasem_encode.vhd,1622353250,vhdl,,,,biphasem_encode,,,,,,,,
+D:/000 Term 8 000/lineencode/lineencode.srcs/sources_1/new/biphases_encode.vhd,1622353252,vhdl,,,,biphases_encode,,,,,,,,
+D:/000 Term 8 000/lineencode/lineencode.srcs/sources_1/new/mips_line.vhd,1622438230,vhdl,,,,mips_line,,,,,,,,
+D:/000 Term 8 000/lineencode/lineencode.srcs/sources_1/new/nrzl_encode.vhd,1622353252,vhdl,,,,nrzl_encode,,,,,,,,
+D:/000 Term 8 000/lineencode/lineencode.srcs/sources_1/new/nrzm_encode.vhd,1622353252,vhdl,,,,nrzm_encode,,,,,,,,
+D:/000 Term 8 000/lineencode/lineencode.srcs/sources_1/new/nrzm_encode_test.vhd,1622435524,vhdl,,,,nrzm_encode_test,,,,,,,,
+D:/000 Term 8 000/lineencode/lineencode.srcs/sources_1/new/nrzs_encode.vhd,1622353252,vhdl,,,,nrzs_encode,,,,,,,,
+D:/000 Term 8 000/lineencode/lineencode.srcs/sources_1/new/unirz_encode.vhd,1622353252,vhdl,,,,unirz_encode,,,,,,,,
+D:/000 Term 8 000/lineencode/mips/new/alu.vhd,1620668844,vhdl,,,,alu,,,,,,,,
+D:/000 Term 8 000/lineencode/mips/new/alucontrol.vhd,1620502610,vhdl,,,,alucontrol,,,,,,,,
+D:/000 Term 8 000/lineencode/mips/new/control unit.vhd,1620665366,vhdl,,,,control_unit,,,,,,,,
+D:/000 Term 8 000/lineencode/mips/new/dataMemory.vhd,1620699194,vhdl,,,,datamemory,,,,,,,,
+D:/000 Term 8 000/lineencode/mips/new/instMem.vhd,1622647076,vhdl,,,,instmem,,,,,,,,
+D:/000 Term 8 000/lineencode/mips/new/mips_top.vhd,1622427997,vhdl,,,,mips_top,,,,,,,,
+D:/000 Term 8 000/lineencode/mips/new/mux32x1.vhd,1620483272,vhdl,,,,mux32x1,,,,,,,,
+D:/000 Term 8 000/lineencode/mips/new/mux5x1.vhd,1620483742,vhdl,,,,mux5x1,,,,,,,,
+D:/000 Term 8 000/lineencode/mips/new/pc.vhd,1620583540,vhdl,,,,pc,,,,,,,,
+D:/000 Term 8 000/lineencode/mips/new/regfile.vhd,1622438597,vhdl,,,,regfile,,,,,,,,
+D:/000 Term 8 000/lineencode/mips/new/shiftleft2.vhd,1620494540,vhdl,,,,shiftleft2_32,,,,,,,,
+D:/000 Term 8 000/lineencode/mips/new/signExtend.vhd,1620629822,vhdl,,,,signextend,,,,,,,,

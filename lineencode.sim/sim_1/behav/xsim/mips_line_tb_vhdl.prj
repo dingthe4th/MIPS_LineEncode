@@ -1,0 +1,26 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../mips/new/alu.vhd" \
+"../../../../mips/new/alucontrol.vhd" \
+"../../../../lineencode.srcs/sources_1/new/biphasel_encode.vhd" \
+"../../../../lineencode.srcs/sources_1/new/biphasem_encode.vhd" \
+"../../../../lineencode.srcs/sources_1/new/biphases_encode.vhd" \
+"../../../../mips/new/control unit.vhd" \
+"../../../../mips/new/dataMemory.vhd" \
+"../../../../mips/new/instMem.vhd" \
+"../../../../lineencode.srcs/sources_1/new/mips_line.vhd" \
+"../../../../mips/new/mips_top.vhd" \
+"../../../../mips/new/mux32x1.vhd" \
+"../../../../mips/new/mux5x1.vhd" \
+"../../../../lineencode.srcs/sources_1/new/nrzl_encode.vhd" \
+"../../../../lineencode.srcs/sources_1/new/nrzm_encode.vhd" \
+"../../../../lineencode.srcs/sources_1/new/nrzs_encode.vhd" \
+"../../../../mips/new/pc.vhd" \
+"../../../../mips/new/regfile.vhd" \
+"../../../../mips/new/shiftleft2.vhd" \
+"../../../../mips/new/signExtend.vhd" \
+"../../../../lineencode.srcs/sources_1/new/unirz_encode.vhd" \
+"../../../../lineencode.srcs/sim_1/new/mips_line_sim.vhd" \
+
+# Do not sort compile order
+nosort

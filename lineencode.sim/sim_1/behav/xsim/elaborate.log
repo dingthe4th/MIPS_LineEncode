@@ -1,0 +1,39 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 0ce8bb2f153e4468a46d62a47e8ee983 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot mips_line_tb_behav xil_defaultlib.mips_line_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-8437] comparison between unequal length arrays always returns FALSE, left argument length 5 is different from right argument length 20 for 'std_logic_vector_93' array [D:/000 Term 8 000/lineencode/mips/new/regfile.vhd:101]
+WARNING: [VRFC 10-8437] comparison between unequal length arrays always returns FALSE, left argument length 5 is different from right argument length 20 for 'std_logic_vector_93' array [D:/000 Term 8 000/lineencode/mips/new/regfile.vhd:102]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_signed
+Compiling architecture behavioral of entity xil_defaultlib.alu [alu_default]
+Compiling architecture behavioral of entity xil_defaultlib.alucontrol [alucontrol_default]
+Compiling architecture behavioral of entity xil_defaultlib.control_unit [control_unit_default]
+Compiling architecture behavioral of entity xil_defaultlib.dataMemory [datamemory_default]
+Compiling architecture behavioral of entity xil_defaultlib.instMem [instmem_default]
+Compiling architecture behavioral of entity xil_defaultlib.mux32x1 [mux32x1_default]
+Compiling architecture behavioral of entity xil_defaultlib.mux5x1 [mux5x1_default]
+Compiling architecture behavioral of entity xil_defaultlib.regfile [regfile_default]
+Compiling architecture behavioral of entity xil_defaultlib.shiftleft2_32 [shiftleft2_32_default]
+Compiling architecture behavioral of entity xil_defaultlib.signExtend [signextend_default]
+Compiling architecture behavioral of entity xil_defaultlib.pc [pc_default]
+Compiling architecture behavioral of entity xil_defaultlib.mips_top [mips_top_default]
+Compiling architecture behavioral of entity xil_defaultlib.nrzl_encode [nrzl_encode_default]
+Compiling architecture behavioral of entity xil_defaultlib.nrzm_encode [nrzm_encode_default]
+Compiling architecture behavioral of entity xil_defaultlib.nrzs_encode [nrzs_encode_default]
+Compiling architecture behavioral of entity xil_defaultlib.biphasel_encode [biphasel_encode_default]
+Compiling architecture behavioral of entity xil_defaultlib.biphasem_encode [biphasem_encode_default]
+Compiling architecture behavioral of entity xil_defaultlib.biphases_encode [biphases_encode_default]
+Compiling architecture behavioral of entity xil_defaultlib.unirz_encode [unirz_encode_default]
+Compiling architecture behavioral of entity xil_defaultlib.mips_line [mips_line_default]
+Compiling architecture bench of entity xil_defaultlib.mips_line_tb
+Built simulation snapshot mips_line_tb_behav

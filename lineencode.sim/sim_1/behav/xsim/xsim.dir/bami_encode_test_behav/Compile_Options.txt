@@ -1,0 +1,1 @@
+-wto "0ce8bb2f153e4468a46d62a47e8ee983" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "bami_encode_test_behav" "xil_defaultlib.bami_encode_test" -log "elaborate.log" 

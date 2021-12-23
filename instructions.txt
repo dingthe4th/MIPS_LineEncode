@@ -1,0 +1,7 @@
+op
+111111 -encoding
+
+funct - line encoding
+
+
+000000

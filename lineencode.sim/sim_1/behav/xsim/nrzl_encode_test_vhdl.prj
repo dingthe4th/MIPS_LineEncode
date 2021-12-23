@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../lineencode.srcs/sources_1/new/nrzl_encode.vhd" \
+"../../../../lineencode.srcs/sources_1/new/nrzl_encode_test.vhd" \
+
+# Do not sort compile order
+nosort

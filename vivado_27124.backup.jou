@@ -1,0 +1,116 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon May 31 08:22:41 2021
+# Process ID: 27124
+# Current directory: D:/000 Term 8 000/lineencode
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3756 D:\000 Term 8 000\lineencode\lineencode.xpr
+# Log file: D:/000 Term 8 000/lineencode/vivado.log
+# Journal file: D:/000 Term 8 000/lineencode\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/000 Term 8 000/lineencode/lineencode.xpr}
+
+update_compile_order -fileset sources_1
+launch_simulation
+source mips_line_tb.tcl
+relaunch_sim
+relaunch_sim
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+relaunch_sim
+relaunch_sim
+close_sim
+launch_simulation
+launch_simulation
+launch_simulation
+source mips_line_tb.tcl
+save_wave_config {D:/000 Term 8 000/lineencode/mips_line_tb_behav.wcfg}
+current_wave_config {mips_line_tb_behav.wcfg}
+add_wave {{/mips_line_tb/uut/encode_sel}} 
+relaunch_sim
+save_wave_config {D:/000 Term 8 000/lineencode/mips_line_tb_behav.wcfg}
+relaunch_sim
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+relaunch_sim
+current_wave_config {mips_line_tb_behav.wcfg}
+add_wave {{/mips_line_tb/uut/mips/prev_funct}} 
+relaunch_sim
+relaunch_sim
+relaunch_sim
+current_wave_config {mips_line_tb_behav.wcfg}
+add_wave {{/mips_line_tb/uut/Eencode}} 
+relaunch_sim
+relaunch_sim
+relaunch_sim
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+save_wave_config {D:/000 Term 8 000/lineencode/mips_line_tb_behav.wcfg}
+relaunch_sim
+relaunch_sim
+save_wave_config {D:/000 Term 8 000/lineencode/mips_line_tb_behav.wcfg}
+relaunch_sim
+relaunch_sim
+current_wave_config {mips_line_tb_behav.wcfg}
+add_wave {{/mips_line_tb/uut/nrzm/nrzm}} 
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+current_wave_config {mips_line_tb_behav.wcfg}
+add_wave {{/mips_line_tb/uut/prev}} {{/mips_line_tb/uut/prev_temp}} 
+relaunch_sim
+current_wave_config {mips_line_tb_behav.wcfg}
+add_wave {{/mips_line_tb/uut/serial_in}} 
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+save_wave_config {D:/000 Term 8 000/lineencode/mips_line_tb_behav.wcfg}
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top nrzm_encode_test [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+close_sim
+launch_simulation
+source nrzm_encode_test.tcl
+close_sim
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top mips_line_tb [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+source mips_line_tb.tcl
+open_wave_config {D:/000 Term 8 000/lineencode/mips_line_tb_behav.wcfg}
+relaunch_sim
+save_wave_config {D:/000 Term 8 000/lineencode/mips_line_tb_behav.wcfg}
+close_sim

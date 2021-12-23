@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon May 31 12:03:39 2021
+# Process ID: 27500
+# Current directory: D:/000 Term 8 000/lineencode/lineencode.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/000 Term 8 000/lineencode/lineencode.sim/sim_1/behav/xsim/xsim.dir/nrzm_encode_test_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/000 Term 8 000/lineencode/lineencode.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/000 Term 8 000/lineencode/lineencode.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/000 -notrace
+couldn't read file "D:/000": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Mon May 31 12:03:39 2021...
